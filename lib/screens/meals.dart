@@ -37,7 +37,7 @@ class MealsScreen extends StatelessWidget{
       child: Column(
       mainAxisSize: MainAxisSize.min,
       children: [
-        Text('Uh oh.....nothing here!',style: Theme.of(context).textTheme.headlineLarge!.copyWith(
+        Text('OMG.....nothing here!',style: Theme.of(context).textTheme.headlineLarge!.copyWith(
           color: Theme.of(context).colorScheme.onBackground,
         ),
         ),
